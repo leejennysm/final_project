@@ -1,6 +1,8 @@
-# Final Project for Jenny Lee
+# Fake headline here for my final project
 
-Here is some text. And I want to create a [link](https;//wikipedia.org).
+Final project by Jenny Lee
+
+This is where I will describe my process for getting the data (e.g. using Tableau to convert it into usable data and then include a screenshot). Here is some text. And I want to create a [link](https;//wikipedia.org).
 
 1. Here is a list
 2. Another item
