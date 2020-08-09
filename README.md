@@ -12,7 +12,7 @@ This is where I will describe my process for getting the data (e.g. using Tablea
 * Another item
 * Third item
 
-![Picture of a cat](http://placekitten.com/400/300)
+![Picture of a cat](https://placekitten.com/400/300)
 
 Here is some text.
 
