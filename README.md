@@ -40,10 +40,35 @@ The final project was a very interesting and insightful experience, and I feel t
 
 
 ## Appendix
-
-
 ### Figure 1
 ![categorizing table](https://lh6.googleusercontent.com/Zj7ODWeOwBsT9x_rhxNvlpWTTXQfthBswnwLuBHH7eJbmL0wcxFKqS_PekISkO6zNGQSyUMdsjhpwYGjRcnlRmvEkg0yzETTEgqeIO86nT9C7XuoOU-vT8bjojCkaIAnScEGwHw_)
+
+### Figure 2
+![Tabula table](https://lh6.googleusercontent.com/G15UquXiLcOJYXtdI2e_4qtZj8T8eFYzoua0U0aOwO5osHzH7QjtUvamZgB7Cn51NBo5d_qooY-E7WFKj8Zfbk4rObmcNBm2GEqQL3Z548ciNSzImZBS-XdDwothi9Pn1w_uImnV)
+
+### Figure 3
+![Pivot Table 1](https://lh3.googleusercontent.com/liS38zFvoD5LjDS9SCOS9Q3RYNpKhKupW7sLTHrl0OL_ctO73Dv1qV0J4udqb4IYc940k_1xhQTx9YzE21Dg8ZECajSlGXomypTRAYJA)
+
+### Figure 4
+![Pivot Table Editor Settings](https://lh3.googleusercontent.com/_OvELg2AlupV26nOY-95DZ72U8gByfvnIcSRoGoJUsrHoYbaIwxTipCHPKt265YZWaBGepyeM4NftDySlQLmcKZ_qz2z36S6I_AMTkTGiAwRUg6I8VVdWtyn2FiH-DsSBos2aOEr)
+
+### Figure 5
+![Pivot Table 2](https://lh6.googleusercontent.com/aQ9DubnRWUWxSYGEh0DvcWWKCExN8duvcv17qumnjVqcnZSzQUtsLT7gRPTr4oiH1BVicC7wal--C0tYeN-ik_hlP7XpUq7GaJPtzErmD3lCcLFC9lF5MUO3i9A4FDXBVp5k9yJq)
+
+### Figure 6
+![Pivot Table Editor Settings](https://lh3.googleusercontent.com/EZHW_6dH1QMWQ4XuvGVRA-OoEA7rjmbhP2Kk5xCoU_t7--V-kw2NNwPBkXOfTDBx1DSMMmW1iQgN-nqNd1EQfdcCMSAWCWiEYqUZWma4uJ8L68w2Bm38PW-wZG6vfhE_VzCgl8B1)
+
+### Figure 7
+![Pivote Table 3](https://lh6.googleusercontent.com/aoBw2PlHdwhazPwMO3cH0_19_TR-x2uEA8DaYqvYjd5wXUoOfENAI6WJf1Txjh-cIe719rNrm3qDe7pH6pO_5bki3K5NBEdCWjdlWM2GuA_PX9v3OdDvA6Qd4NOO9W0A-ctqVFDa)
+
+### Figure 8
+![Pivot Table Editor Settings](https://lh6.googleusercontent.com/YYC1d9RSYJcR2_9EayOhi0ys-qnVOFrPljGuiRapcmq0dWPPJzyY0jEoTkZbATMvB6aSkKNCsYx46T07zmthx4EB7lNRg4wU460DyVIf09S7NJReLsVQP8f2iQCPhIu4wfboSDPM)
+
+### Figure 9
+![Pivot Table 4](https://lh4.googleusercontent.com/7WZiHadzHfRaWkSzPYAdS5E8bQ3uV12Zrdamd_0VlRGuNdJOEIYUuM3ljBDNvOUoYUvm6bp1UM0v-N3vQPzxSPK-8lNtWQFM2pkqAW8rSX-zLX1H3f68s5TqV9c7P_-k-tAJDTOO)
+
+### Figure 10
+![Pivot Table Editor Settings](https://lh4.googleusercontent.com/XJJvENkAALRGYQACmmxMY8xN0wh-R-W9Pm55r2jURfOUd5lCghlKShO631Ga6JZn549dsGIxSqQL4Oco5TNRxVTFIx5wHQ7XnTXbAhYMkuOjvgoLcqJLVbOGQ0Jop-4mJEBOg9nK)
 
 ### Figure 11
 <iframe title="More Democratic members of Congress have resigned over the past century than Republican members of Congress" aria-label="Split Bars" id="datawrapper-chart-6Ti0K" src="https://datawrapper.dwcdn.net/6Ti0K/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1136"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
