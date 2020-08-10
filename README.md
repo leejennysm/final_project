@@ -3,9 +3,9 @@
 Final project by Jenny Lee
 
 ## CSV Files
-* [Congressional resignations](https://github.com/fivethirtyeight/data/blob/master/congress-resignations/congressional_resignations.csv) from March 4, 1901, to January 15, 2018.
+* [Congressional resignations](https://github.com/fivethirtyeight/data/blob/master/congress-resignations/congressional_resignations.csv) from March 4, 1901, to January 15, 2018. The original data I used.
 * [Data](https://drive.google.com/file/d/1Yxf7bFymtZ4GGZ_duEtOx91Bpg6lOi1Q/view?usp=sharing) extracted from PDF with Tabula.
-* How I used the [congressional resignation data](https://drive.google.com/file/d/1s1gSyPSnKuRNKU5AwsITe75ttZBe5igI/view?usp=sharing) in Google spreadsheets.
+* How I used the [congressional resignation data](https://drive.google.com/file/d/1s1gSyPSnKuRNKU5AwsITe75ttZBe5igI/view?usp=sharing) in Google spreadsheets. The data I interrogated.
 
 ## Introduction
 “What is the purpose of data journalism?” I asked myself as I began my process for finding a compelling data set for my final project. My goal for this project was to find a meaningful, relevant set of data that I could adequately contextualize in a way that would make it appear timely in today’s society. I began my research for a data set based on brainstormed topics that I had a preexisting interest in, as I felt that this would aid me later on in my analyses and interpretations of the data. I thought that I would also be better equipped to identify certain trends in the data should they aise if I already had a working understanding of the topic and data I was looking for. As such, I gravitated toward topics such as recent mortality rates in the United States, terminology concerning the Black Lives Matter movement (e.g. how many people searched “BLM” over the past few months), Supreme Court data centered around both cases and justices, and executive orders that had been issued by the past few presidents.
