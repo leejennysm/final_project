@@ -2,6 +2,11 @@
 
 Final project by Jenny Lee
 
+## CSV Files
+* [Congressional resignations] (https://github.com/fivethirtyeight/data/blob/master/congress-resignations/congressional_resignations.csv) from March 4, 1901, to January 15, 2018.
+* [Data] (https://drive.google.com/file/d/1Yxf7bFymtZ4GGZ_duEtOx91Bpg6lOi1Q/view?usp=sharing) extracted from PDF with Tabula.
+* How I used the [congressional resignation data] (https://drive.google.com/file/d/1s1gSyPSnKuRNKU5AwsITe75ttZBe5igI/view?usp=sharing) in Google spreadsheets.
+
 ## Introduction
 “What is the purpose of data journalism?” I asked myself as I began my process for finding a compelling data set for my final project. My goal for this project was to find a meaningful, relevant set of data that I could adequately contextualize in a way that would make it appear timely in today’s society. I began my research for a data set based on brainstormed topics that I had a preexisting interest in, as I felt that this would aid me later on in my analyses and interpretations of the data. I thought that I would also be better equipped to identify certain trends in the data should they aise if I already had a working understanding of the topic and data I was looking for. As such, I gravitated toward topics such as recent mortality rates in the United States, terminology concerning the Black Lives Matter movement (e.g. how many people searched “BLM” over the past few months), Supreme Court data centered around both cases and justices, and executive orders that had been issued by the past few presidents.
 
@@ -39,41 +44,41 @@ The most frequently-cited source for congressional resignations by the dataset�
 The final project was a very interesting and insightful experience, and I feel that I have greatly improved my familiarity with various different types of fundamental data journalism-centric tools. I had a really great time in Journalism 124, and I truly appreciate all of the knowledge and information I was able to obtain this summer!
 
 
-## Appendix
-### Figure 1
+# Appendix
+## Figure 1
 ![categorizing table](https://lh6.googleusercontent.com/Zj7ODWeOwBsT9x_rhxNvlpWTTXQfthBswnwLuBHH7eJbmL0wcxFKqS_PekISkO6zNGQSyUMdsjhpwYGjRcnlRmvEkg0yzETTEgqeIO86nT9C7XuoOU-vT8bjojCkaIAnScEGwHw_)
 
-### Figure 2
+## Figure 2
 ![Tabula table](https://lh6.googleusercontent.com/G15UquXiLcOJYXtdI2e_4qtZj8T8eFYzoua0U0aOwO5osHzH7QjtUvamZgB7Cn51NBo5d_qooY-E7WFKj8Zfbk4rObmcNBm2GEqQL3Z548ciNSzImZBS-XdDwothi9Pn1w_uImnV)
 
-### Figure 3
+## Figure 3
 ![Pivot Table 1](https://lh3.googleusercontent.com/liS38zFvoD5LjDS9SCOS9Q3RYNpKhKupW7sLTHrl0OL_ctO73Dv1qV0J4udqb4IYc940k_1xhQTx9YzE21Dg8ZECajSlGXomypTRAYJA)
 
-### Figure 4
+## Figure 4
 ![Pivot Table Editor Settings](https://lh3.googleusercontent.com/_OvELg2AlupV26nOY-95DZ72U8gByfvnIcSRoGoJUsrHoYbaIwxTipCHPKt265YZWaBGepyeM4NftDySlQLmcKZ_qz2z36S6I_AMTkTGiAwRUg6I8VVdWtyn2FiH-DsSBos2aOEr)
 
-### Figure 5
+## Figure 5
 ![Pivot Table 2](https://lh6.googleusercontent.com/aQ9DubnRWUWxSYGEh0DvcWWKCExN8duvcv17qumnjVqcnZSzQUtsLT7gRPTr4oiH1BVicC7wal--C0tYeN-ik_hlP7XpUq7GaJPtzErmD3lCcLFC9lF5MUO3i9A4FDXBVp5k9yJq)
 
-### Figure 6
+## Figure 6
 ![Pivot Table Editor Settings](https://lh3.googleusercontent.com/EZHW_6dH1QMWQ4XuvGVRA-OoEA7rjmbhP2Kk5xCoU_t7--V-kw2NNwPBkXOfTDBx1DSMMmW1iQgN-nqNd1EQfdcCMSAWCWiEYqUZWma4uJ8L68w2Bm38PW-wZG6vfhE_VzCgl8B1)
 
-### Figure 7
+## Figure 7
 ![Pivote Table 3](https://lh6.googleusercontent.com/aoBw2PlHdwhazPwMO3cH0_19_TR-x2uEA8DaYqvYjd5wXUoOfENAI6WJf1Txjh-cIe719rNrm3qDe7pH6pO_5bki3K5NBEdCWjdlWM2GuA_PX9v3OdDvA6Qd4NOO9W0A-ctqVFDa)
 
-### Figure 8
+## Figure 8
 ![Pivot Table Editor Settings](https://lh6.googleusercontent.com/YYC1d9RSYJcR2_9EayOhi0ys-qnVOFrPljGuiRapcmq0dWPPJzyY0jEoTkZbATMvB6aSkKNCsYx46T07zmthx4EB7lNRg4wU460DyVIf09S7NJReLsVQP8f2iQCPhIu4wfboSDPM)
 
-### Figure 9
+## Figure 9
 ![Pivot Table 4](https://lh4.googleusercontent.com/7WZiHadzHfRaWkSzPYAdS5E8bQ3uV12Zrdamd_0VlRGuNdJOEIYUuM3ljBDNvOUoYUvm6bp1UM0v-N3vQPzxSPK-8lNtWQFM2pkqAW8rSX-zLX1H3f68s5TqV9c7P_-k-tAJDTOO)
 
-### Figure 10
+## Figure 10
 ![Pivot Table Editor Settings](https://lh4.googleusercontent.com/XJJvENkAALRGYQACmmxMY8xN0wh-R-W9Pm55r2jURfOUd5lCghlKShO631Ga6JZn549dsGIxSqQL4Oco5TNRxVTFIx5wHQ7XnTXbAhYMkuOjvgoLcqJLVbOGQ0Jop-4mJEBOg9nK)
 
-### Figure 11
+## Figure 11
 <iframe title="More Democratic members of Congress have resigned over the past century than Republican members of Congress" aria-label="Split Bars" id="datawrapper-chart-6Ti0K" src="https://datawrapper.dwcdn.net/6Ti0K/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1136"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-### Figure 12
+## Figure 12
 <iframe title="More than 80% of the Democratic and Republican congressional resignations were covered by 14 out of 102 listed sources" aria-label="chart" id="datawrapper-chart-rkZsx" src="https://datawrapper.dwcdn.net/rkZsx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="768"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
