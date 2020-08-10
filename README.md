@@ -43,7 +43,7 @@ The final project was a very interesting and insightful experience, and I feel t
 
 
 ### Figure 1
-
+![categorizing table](https://lh6.googleusercontent.com/Zj7ODWeOwBsT9x_rhxNvlpWTTXQfthBswnwLuBHH7eJbmL0wcxFKqS_PekISkO6zNGQSyUMdsjhpwYGjRcnlRmvEkg0yzETTEgqeIO86nT9C7XuoOU-vT8bjojCkaIAnScEGwHw_)
 
 ### Figure 11
 <iframe title="More Democratic members of Congress have resigned over the past century than Republican members of Congress" aria-label="Split Bars" id="datawrapper-chart-6Ti0K" src="https://datawrapper.dwcdn.net/6Ti0K/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1136"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
